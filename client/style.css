@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(39, 36, 46);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    height: 500px;
+    width: 60%;
+    margin: 2% auto;
+    background-color: rgb(202, 202, 202);
+    border-radius: 10px;
+}
+
+#left {
+    display: flex;
+}
+
+#right {
+    
+}

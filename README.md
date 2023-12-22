@@ -4,6 +4,8 @@
 
 ![ES](<Screenshot from 2023-12-22 18-00-41-1.png>)
 
+#### *Fellow seeker of wisdom and contemplation, in a world that often demands conformity, let us find solace and inspiration in the profound words of great thinkers. Come, read with me, and let the wisdom of these books illuminate our minds.*
+
 ## Volumes of Wisdom
 
 1. **"Strait is the Gate"**
@@ -46,5 +48,3 @@
     git push origin feature/new-quotes
     ```
 5. Submit a pull request.
-
-### *Fellow seeker of wisdom and contemplation, in a world that often demands conformity, let us find solace and inspiration in the profound words of great thinkers. Come, read with me, and let the wisdom of these books illuminate our minds.*

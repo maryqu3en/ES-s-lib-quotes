@@ -2,6 +2,8 @@
 
 *Ah, wanderer of words, welcome to this repository where the echoes of profound thoughts dance freely. The aim is not to conform but to question, to explore the realms of thought that challenge societal norms. Together, let's embark on a contemplative journey guided by the whispers of my beloved books.*
 
+![ES](<Screenshot from 2023-12-22 18-00-41-1.png>)
+
 ## Volumes of Wisdom
 
 1. **"Strait is the Gate"**
